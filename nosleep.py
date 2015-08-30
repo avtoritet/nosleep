@@ -12,6 +12,6 @@ def click(x, y):
 
 for i in range (0, MINUTES):
     click(55, 0)
-    time.sleep(60)
+    time.sleep(30)
     click(85, 0)
-    time.sleep(60)
+    time.sleep(30)
